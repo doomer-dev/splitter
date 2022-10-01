@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  background-color: lightblue;
+  font-family: 'Space Mono', monospace;
+  width: 100vw;
+  height: 100vh;
+}
+
+input {
+  font-size: 24px;
+}
